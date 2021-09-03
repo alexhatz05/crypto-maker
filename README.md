@@ -1,2 +1,2 @@
 # crypto-maker
- An applied cryptography application.
+A showcase cryptography tool providing basic cryptographic features.
