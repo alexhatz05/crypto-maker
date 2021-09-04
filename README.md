@@ -6,6 +6,7 @@
 ![license](https://img.shields.io/github/license/alexhatz05/crypto-maker?style=flat-square)
 ![JAVA](https://img.shields.io/badge/JAVA-v1.8-informational?style=flat-square)
 ![maven](https://img.shields.io/badge/maven-v3.5.3-informational?style=flat-square)
+![version](https://img.shields.io/badge/version-1.0_SNAPSHOT-blueviolet?style=flat-square)
 
 <hr>
 <p align="justify"> Cryptomaker is a JAVA tool providing basic encryption features. It can be used as a simple utility for basic cryptographic functions such as plaintext encryption and ciphertext decryption. It can be used as well by persons new to cryptography implementation with JAVA, that need a reference to experiment with JCA and JCE package. </p?
