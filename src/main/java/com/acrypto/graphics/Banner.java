@@ -12,7 +12,7 @@ public class Banner {
     private static final Logger logger = Logger.getLogger(Banner.class.getName());
 
     public void printBanner() {
-        System.out.println(PrintingColors.CYAN+readBanner()+PrintingColors.RESET);
+        System.out.println(PrintingColors.CYAN_BOLD_BRIGHT + readBanner() + PrintingColors.RESET);
     }
 
     private String readBanner() {
