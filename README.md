@@ -8,4 +8,4 @@
 ![maven](https://img.shields.io/badge/maven-v3.5.3-informational?style=flat-square)
 
 <hr>
-<p align="justify"> Cryptomaker is a JAVA tool providing basic encryption features. It can be used as a simple utility for basic cryptographic functions such as plaintext encryption and ciphertext decryption. It can be used as well as by persons new to cryptography implementation with JAVA, that need a reference to experiment with JCA and JCE package. </p?
+<p align="justify"> Cryptomaker is a JAVA tool providing basic encryption features. It can be used as a simple utility for basic cryptographic functions such as plaintext encryption and ciphertext decryption. It can be used as well by persons new to cryptography implementation with JAVA, that need a reference to experiment with JCA and JCE package. </p?
