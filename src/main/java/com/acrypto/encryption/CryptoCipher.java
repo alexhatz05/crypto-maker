@@ -41,7 +41,7 @@ public class CryptoCipher {
         KeyGeneration keyGen = new KeyGeneration();
 
         try {
-            cipher = Cipher.getInstance("AES/CBC/PKCS5Padding");
+            cipher = Cipher.getInstance("AES/" + cipherMode + "/PKCS5Padding");
             cipher.init(Cipher.ENCRYPT_MODE, keyGen.generateSymmetricKey());
         }
         catch (NoSuchAlgorithmException | NoSuchPaddingException | InvalidKeyException e) {
@@ -54,7 +54,7 @@ public class CryptoCipher {
         SecretKey originalKey = new SecretKeySpec(key.getBytes(), 0, key.getBytes().length, "AES");
 
         try {
-            cipher = Cipher.getInstance("AES/CBC/PKCS5Padding");
+            cipher = Cipher.getInstance("AES/" + cipherMode + "/PKCS5Padding");
             cipher.init(Cipher.ENCRYPT_MODE, originalKey);
         }
         catch (NoSuchAlgorithmException | NoSuchPaddingException | InvalidKeyException e) {
