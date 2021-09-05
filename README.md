@@ -13,8 +13,8 @@
 
 ## References
 
-[1] <a href="http://tutorials.jenkov.com/java-cryptography/index.html#generating-a-key-pair">Java Cryptography, tutorials.jenkov</a><br>
-[2] <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/security/crypto/CryptoSpec.html">Java Cryptography Architecture (JCA)</a>
+[1] <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/security/crypto/CryptoSpec.html">Java Cryptography Architecture (JCA)</a>
+[2] <a href="http://tutorials.jenkov.com/java-cryptography/index.html#generating-a-key-pair">Java Cryptography, tutorials.jenkov</a><br>
 
 ## Resources
 
